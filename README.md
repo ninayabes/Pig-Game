@@ -10,3 +10,5 @@ If the player rolls a 1, they score nothing and it becomes the next player's tur
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
 If a player chooses to "**HOLD**", their turn total is added to their score, and it becomes the next player's turn.
 The first player to score 100 or more points wins!
+
+![image](https://user-images.githubusercontent.com/65421302/98399742-bbadd380-2017-11eb-9e4b-ea466ebdfcc8.png)
