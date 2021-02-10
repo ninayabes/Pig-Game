@@ -1,6 +1,4 @@
-# Pig-Game
-
-"Pig Game" is a simple dice rolling game that I developed using JavaScript, HTML, and CSS as coding exercise.
+# pig-game
 
 https://js-dice-game.netlify.app/
 
